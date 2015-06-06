@@ -1,0 +1,10 @@
+#######################
+INSTALLATION
+#######################
+1) Upload the butterfly folder to your webserver's XOOPS_ROOT/themes/ directory
+
+3) Enable the "butterfly" theme through your site General settings for "Default Theme". *There is no Admin theme for this theme*
+
+4)Enjoy!
+
+Please leave the credits to Graphic Worx (www.graphic-worx) in the source code. Thank you!
